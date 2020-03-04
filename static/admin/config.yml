@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: W3Layouts/delog
+  repo: UbedullahMohammed/ubed
 media_folder: static/assets
 public_folder: /assets
 collections:
