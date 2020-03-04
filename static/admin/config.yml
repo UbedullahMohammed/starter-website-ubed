@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: UbedullahMohammed/ubed
+  repo: UbedullahMohammed/ubedullah-md
 media_folder: static/assets
 public_folder: /assets
 collections:
